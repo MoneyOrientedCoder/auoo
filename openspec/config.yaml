@@ -1,0 +1,15 @@
+# OpenSpec Configuration
+
+version: "1.0"
+
+# Project metadata
+project:
+  name: "auoo"
+  description: "AI Picture Book - Inspire imagination"
+
+# Default tools (can be overridden)
+tools: []
+
+# Change template defaults
+changes:
+  default_branch: "main"
